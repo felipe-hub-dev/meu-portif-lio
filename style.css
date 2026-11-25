@@ -15,3 +15,31 @@ h1 {
 p {
     font-size: 20px;
 }
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+h2 {
+    color: #facc15;
+}
+.titulo-azul{
+    color: #38bdf8;
+}
+.cartao-projeto{
+    background-color: #1e293b;
+    padding: 20px; 
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 350px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+.link-profissional {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin: 10px;
+    text-decoration: none;
+}
